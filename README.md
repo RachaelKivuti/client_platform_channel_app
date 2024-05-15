@@ -44,7 +44,6 @@ The MethodCodec is the StandardMethodCodec, which uses Flutter’s standard bina
 	static const platform = const
 	MethodChannel('platformchannel.companyname.com/deviceinfo');
 
-
 ## StandardMessageCodec-Supported Value Types
 
 This project involves:
@@ -53,9 +52,7 @@ This project involves:
 
 2. Building the iOS Host Platform Channel and in the third exercise
 
-
 3. Building the Android Host Platform Channel
-
 
 ## Supported value types for iOS and Android
 
