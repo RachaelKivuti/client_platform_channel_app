@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:platform_channel/pages/home.dart';
+import 'package:client_platform_channel_app/pages/home.dart';
 
 void main() => runApp(const MyApp());
 
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Form Validation',
+      title: 'Layouts',
       theme: ThemeData(
         primarySwatch: Colors.lightGreen,
       ),
