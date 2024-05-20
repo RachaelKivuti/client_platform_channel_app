@@ -50,11 +50,11 @@ class _HomeState extends State<Home> {
       body: SafeArea(
         child: ListTile(
           title: const Text(
-            'data',
+            'Device Info:',
             style: TextStyle(
               fontFamily: 'open sans',
               fontSize: 25.0,
-              fontWeight: FontWeight.bold,
+              //fontWeight: FontWeight.bold,
             ),
           ),
           subtitle: Text(

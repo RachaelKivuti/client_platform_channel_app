@@ -12,7 +12,7 @@
 ## Adding custom functionality to your apps by using platform channels and writing the API code yourself.
 
 To access platform-specific APIs for iOS and Android, you use platform channels to send and receive messages.
-
+git
 The Flutter app is the client and the platform-native code for iOS and Android is the host.
 
 If needed, it is also possible to have the platform-native code to act as a client to call methods written in the Flutter app dart code.
